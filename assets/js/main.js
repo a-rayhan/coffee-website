@@ -41,8 +41,6 @@ const scrollHeader = () => {
 }
 window.addEventListener('scroll', scrollHeader)
 
-/*=============== CHANGE BACKGROUND HEADER ===============*/
-
 
 /*=============== MIXITUP FILTER PRODUCTS ===============*/
 
